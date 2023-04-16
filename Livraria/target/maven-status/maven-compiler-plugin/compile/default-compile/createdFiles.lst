@@ -1,0 +1,8 @@
+model\Venda.class
+model\Livros.class
+model\PagamentoDinheiro.class
+model\Cliente.class
+model\Endereco.class
+com\mycompany\livraria\Main.class
+model\PagamentoCartao.class
+model\LivroVenda.class
